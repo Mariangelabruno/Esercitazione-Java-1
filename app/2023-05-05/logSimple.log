@@ -1,0 +1,784 @@
+2023-05-05 10:04:06,602 TRACE [main] Hello from Log4j 2
+2023-05-05 10:04:06,605 DEBUG [main] Hello from Log4j 2
+2023-05-05 10:04:06,605 INFO [main] Hello from Log4j 2
+2023-05-05 10:04:06,605 WARN [main] Hello from Log4j 2
+2023-05-05 10:04:06,605 ERROR [main] Hello from Log4j 2
+2023-05-05 10:04:06,605 FATAL [main] Hello from Log4j 2
+2023-05-05 10:04:06,606 INFO [main] Ciao da stampa altri log...
+2023-05-05 10:04:06,613 INFO [main] Autore: Luigi Pirandello
+2023-05-05 10:04:06,613 WARN [main] Titolo: Il fu Mattia Pascal
+2023-05-05 10:04:06,613 INFO [main] Autore: Italo Svevo
+2023-05-05 10:04:06,613 WARN [main] Titolo: Una vita
+2023-05-05 10:04:06,615 DEBUG [main] File CSV creato correttamente
+2023-05-05 10:04:06,618 DEBUG [main] Provo a leggere un file excel
+2023-05-05 10:04:07,139 INFO [main] Valore Ciao
+2023-05-05 10:04:07,139 INFO [main] Valore Sono
+2023-05-05 10:04:07,139 INFO [main] Valore un
+2023-05-05 10:04:07,140 INFO [main] Valore esempio
+2023-05-05 10:04:07,140 INFO [main] Valore di 
+2023-05-05 10:04:07,140 INFO [main] Valore test
+2023-05-05 10:04:07,510 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}
+2023-05-05 10:04:07,511 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"}]
+2023-05-05 10:17:23,790 TRACE [main] Hello from Log4j 2
+2023-05-05 10:17:23,792 DEBUG [main] Hello from Log4j 2
+2023-05-05 10:17:23,792 INFO [main] Hello from Log4j 2
+2023-05-05 10:17:23,792 WARN [main] Hello from Log4j 2
+2023-05-05 10:17:23,792 ERROR [main] Hello from Log4j 2
+2023-05-05 10:17:23,792 FATAL [main] Hello from Log4j 2
+2023-05-05 10:17:23,793 INFO [main] Ciao da stampa altri log...
+2023-05-05 10:17:23,793 ERROR [main] sono io
+2023-05-05 10:35:13,796 TRACE [main] Hello from Log4j 2
+2023-05-05 10:35:13,798 DEBUG [main] Hello from Log4j 2
+2023-05-05 10:35:13,798 INFO [main] Hello from Log4j 2
+2023-05-05 10:35:13,798 WARN [main] Hello from Log4j 2
+2023-05-05 10:35:13,798 ERROR [main] Hello from Log4j 2
+2023-05-05 10:35:13,798 FATAL [main] Hello from Log4j 2
+2023-05-05 10:35:13,799 INFO [main] 15
+2023-05-05 10:35:13,799 ERROR [main] sono io
+2023-05-05 11:32:26,347 TRACE [main] Hello from Log4j 2
+2023-05-05 11:32:26,352 DEBUG [main] Hello from Log4j 2
+2023-05-05 11:32:26,352 INFO [main] Hello from Log4j 2
+2023-05-05 11:32:26,353 WARN [main] Hello from Log4j 2
+2023-05-05 11:32:26,353 ERROR [main] Hello from Log4j 2
+2023-05-05 11:32:26,353 FATAL [main] Hello from Log4j 2
+2023-05-05 11:32:26,355 INFO [main] 15
+2023-05-05 11:32:26,355 ERROR [main] sono io
+2023-05-05 11:32:26,363 INFO [main] Autore: Dante Aligheri
+2023-05-05 11:32:26,363 WARN [main] Titolo: La divina commedia
+2023-05-05 11:32:26,363 INFO [main] Autore: Eugenio Montale
+2023-05-05 11:32:26,363 WARN [main] Titolo: Ossi di seppia
+2023-05-05 11:32:26,364 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 11:32:26,364 DEBUG [main] File CSV creato correttamente
+2023-05-05 11:37:58,994 TRACE [main] Hello from Log4j 2
+2023-05-05 11:37:58,997 DEBUG [main] Hello from Log4j 2
+2023-05-05 11:37:58,997 INFO [main] Hello from Log4j 2
+2023-05-05 11:37:58,997 WARN [main] Hello from Log4j 2
+2023-05-05 11:37:58,997 ERROR [main] Hello from Log4j 2
+2023-05-05 11:37:58,997 FATAL [main] Hello from Log4j 2
+2023-05-05 11:37:58,999 INFO [main] 15
+2023-05-05 11:37:58,999 ERROR [main] sono io
+2023-05-05 11:37:59,006 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 11:37:59,007 WARN [main] Titolo: X Agosto
+2023-05-05 11:37:59,007 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 11:37:59,007 WARN [main] Titolo: L'infinito
+2023-05-05 11:37:59,007 INFO [main] Autore: Dante Aligheri
+2023-05-05 11:37:59,007 WARN [main] Titolo: La divina commedia
+2023-05-05 11:37:59,007 INFO [main] Autore: Eugenio Montale
+2023-05-05 11:37:59,007 WARN [main] Titolo: Ossi di seppia
+2023-05-05 11:37:59,007 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 11:37:59,007 WARN [main] Titolo: fratelli
+2023-05-05 11:37:59,008 INFO [main] Autore: Giovanni Verga
+2023-05-05 11:37:59,008 WARN [main] Titolo: Rossomalpelo
+2023-05-05 11:37:59,008 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 11:37:59,009 DEBUG [main] File CSV creato correttamente
+2023-05-05 11:39:43,418 TRACE [main] Hello from Log4j 2
+2023-05-05 11:39:43,420 DEBUG [main] Hello from Log4j 2
+2023-05-05 11:39:43,420 INFO [main] Hello from Log4j 2
+2023-05-05 11:39:43,420 WARN [main] Hello from Log4j 2
+2023-05-05 11:39:43,421 ERROR [main] Hello from Log4j 2
+2023-05-05 11:39:43,421 FATAL [main] Hello from Log4j 2
+2023-05-05 11:39:43,422 INFO [main] 15
+2023-05-05 11:39:43,422 ERROR [main] sono io
+2023-05-05 11:39:43,432 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 11:39:43,432 WARN [main] Titolo: X Agosto
+2023-05-05 11:39:43,432 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 11:39:43,432 WARN [main] Titolo: L'infinito
+2023-05-05 11:39:43,432 INFO [main] Autore: Dante Aligheri
+2023-05-05 11:39:43,432 WARN [main] Titolo: La divina commedia
+2023-05-05 11:39:43,432 INFO [main] Autore: Eugenio Montale
+2023-05-05 11:39:43,433 WARN [main] Titolo: Ossi di seppia
+2023-05-05 11:39:43,433 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 11:39:43,434 WARN [main] Titolo: fratelli
+2023-05-05 11:39:43,434 INFO [main] Autore: Giovanni Verga
+2023-05-05 11:39:43,434 WARN [main] Titolo: Rossomalpelo
+2023-05-05 11:39:43,434 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 11:39:43,435 DEBUG [main] File CSV creato correttamente
+2023-05-05 11:39:43,439 DEBUG [main] Provo a leggere un file excel
+2023-05-05 11:39:43,881 INFO [main] Valore Ciao
+2023-05-05 11:39:43,881 INFO [main] Valore Sono
+2023-05-05 11:39:43,882 INFO [main] Valore un
+2023-05-05 11:39:43,882 INFO [main] Valore esempio
+2023-05-05 11:39:43,882 INFO [main] Valore di 
+2023-05-05 11:39:43,882 INFO [main] Valore test
+2023-05-05 12:03:01,372 TRACE [main] Hello from Log4j 2
+2023-05-05 12:03:01,374 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:03:01,374 INFO [main] Hello from Log4j 2
+2023-05-05 12:03:01,375 WARN [main] Hello from Log4j 2
+2023-05-05 12:03:01,375 ERROR [main] Hello from Log4j 2
+2023-05-05 12:03:01,375 FATAL [main] Hello from Log4j 2
+2023-05-05 12:03:01,376 INFO [main] 15
+2023-05-05 12:03:01,376 ERROR [main] sono io
+2023-05-05 12:03:01,383 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:03:01,383 WARN [main] Titolo: X Agosto
+2023-05-05 12:03:01,383 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:03:01,383 WARN [main] Titolo: L'infinito
+2023-05-05 12:03:01,384 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:03:01,384 WARN [main] Titolo: La divina commedia
+2023-05-05 12:03:01,384 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:03:01,384 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:03:01,384 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:03:01,384 WARN [main] Titolo: fratelli
+2023-05-05 12:03:01,384 INFO [main] Autore: Giovanni Verga
+2023-05-05 12:03:01,384 WARN [main] Titolo: Rossomalpelo
+2023-05-05 12:03:01,385 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:03:01,385 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:03:01,389 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:03:01,845 INFO [main] Valore Ciao
+2023-05-05 12:03:01,845 INFO [main] Valore mi
+2023-05-05 12:03:01,845 INFO [main] Valore chiamo
+2023-05-05 12:03:01,845 INFO [main] Valore Mariangela
+2023-05-05 12:03:01,846 INFO [main] Valore Bruno
+2023-05-05 12:03:01,846 INFO [main] Valore .
+2023-05-05 12:15:15,017 TRACE [main] Hello from Log4j 2
+2023-05-05 12:15:15,020 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:15:15,020 INFO [main] Hello from Log4j 2
+2023-05-05 12:15:15,020 WARN [main] Hello from Log4j 2
+2023-05-05 12:15:15,020 ERROR [main] Hello from Log4j 2
+2023-05-05 12:15:15,020 FATAL [main] Hello from Log4j 2
+2023-05-05 12:15:15,021 INFO [main] 15
+2023-05-05 12:15:15,021 ERROR [main] sono io
+2023-05-05 12:15:15,029 INFO [main] Autore: Luigi Pirandello
+2023-05-05 12:15:15,029 WARN [main] Titolo: Il fu Mattia Pascal
+2023-05-05 12:15:15,029 INFO [main] Autore: Italo Svevo
+2023-05-05 12:15:15,029 WARN [main] Titolo: Una vita
+2023-05-05 12:15:15,029 INFO [main] Autore: Mariangela
+2023-05-05 12:15:15,029 WARN [main] Titolo:  its
+2023-05-05 12:15:15,030 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:15:15,030 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:15:15,033 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:15:15,455 INFO [main] Valore Ciao
+2023-05-05 12:15:15,455 INFO [main] Valore mi
+2023-05-05 12:15:15,455 INFO [main] Valore chiamo
+2023-05-05 12:15:15,455 INFO [main] Valore Mariangela
+2023-05-05 12:15:15,456 INFO [main] Valore Bruno
+2023-05-05 12:15:15,456 INFO [main] Valore .
+2023-05-05 12:24:06,886 TRACE [main] Hello from Log4j 2
+2023-05-05 12:24:06,889 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:24:06,889 INFO [main] Hello from Log4j 2
+2023-05-05 12:24:06,889 WARN [main] Hello from Log4j 2
+2023-05-05 12:24:06,890 ERROR [main] Hello from Log4j 2
+2023-05-05 12:24:06,890 FATAL [main] Hello from Log4j 2
+2023-05-05 12:24:06,891 INFO [main] 15
+2023-05-05 12:24:06,891 ERROR [main] sono io
+2023-05-05 12:24:06,899 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:24:06,899 WARN [main] Titolo: X Agosto
+2023-05-05 12:24:06,899 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:24:06,899 WARN [main] Titolo: L'infinito
+2023-05-05 12:24:06,899 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:24:06,899 WARN [main] Titolo: La divina commedia
+2023-05-05 12:24:06,900 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:24:06,900 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:24:06,900 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:24:06,900 WARN [main] Titolo: fratelli
+2023-05-05 12:24:06,900 INFO [main] Autore: Giovanni Verga
+2023-05-05 12:24:06,900 WARN [main] Titolo: Rossomalpelo
+2023-05-05 12:24:06,901 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:24:06,901 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:24:06,905 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:24:07,361 INFO [main] Valore Ciao
+2023-05-05 12:24:07,361 INFO [main] Valore mi
+2023-05-05 12:24:07,361 INFO [main] Valore chiamo
+2023-05-05 12:24:07,361 INFO [main] Valore Mariangela
+2023-05-05 12:24:07,362 INFO [main] Valore Bruno
+2023-05-05 12:24:07,362 INFO [main] Valore !
+2023-05-05 12:28:34,010 TRACE [main] Hello from Log4j 2
+2023-05-05 12:28:34,012 DEBUG [main] Hello from Log4j 2
+2023-05-05 12:28:34,012 INFO [main] Hello from Log4j 2
+2023-05-05 12:28:34,012 WARN [main] Hello from Log4j 2
+2023-05-05 12:28:34,012 ERROR [main] Hello from Log4j 2
+2023-05-05 12:28:34,012 FATAL [main] Hello from Log4j 2
+2023-05-05 12:28:34,013 INFO [main] 15
+2023-05-05 12:28:34,013 ERROR [main] sono io
+2023-05-05 12:28:34,021 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 12:28:34,021 WARN [main] Titolo: X Agosto
+2023-05-05 12:28:34,022 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 12:28:34,022 WARN [main] Titolo: L'infinito
+2023-05-05 12:28:34,022 INFO [main] Autore: Dante Aligheri
+2023-05-05 12:28:34,022 WARN [main] Titolo: La divina commedia
+2023-05-05 12:28:34,022 INFO [main] Autore: Eugenio Montale
+2023-05-05 12:28:34,022 WARN [main] Titolo: Ossi di seppia
+2023-05-05 12:28:34,022 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 12:28:34,022 WARN [main] Titolo: fratelli
+2023-05-05 12:28:34,022 INFO [main] Autore: Giovanni Verga
+2023-05-05 12:28:34,022 WARN [main] Titolo: Rossomalpelo
+2023-05-05 12:28:34,023 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 12:28:34,024 DEBUG [main] File CSV creato correttamente
+2023-05-05 12:28:34,027 DEBUG [main] Provo a leggere un file excel
+2023-05-05 12:28:34,498 INFO [main] Valore Ciao
+2023-05-05 12:28:34,498 INFO [main] Valore mi
+2023-05-05 12:28:34,498 INFO [main] Valore chiamo
+2023-05-05 12:28:34,499 INFO [main] Valore Mariangela
+2023-05-05 12:28:34,499 INFO [main] Valore Bruno
+2023-05-05 12:28:34,499 INFO [main] Valore !
+2023-05-05 13:11:40,154 TRACE [main] Hello from Log4j 2
+2023-05-05 13:11:40,156 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:11:40,156 INFO [main] Hello from Log4j 2
+2023-05-05 13:11:40,156 WARN [main] Hello from Log4j 2
+2023-05-05 13:11:40,156 ERROR [main] Hello from Log4j 2
+2023-05-05 13:11:40,156 FATAL [main] Hello from Log4j 2
+2023-05-05 13:11:40,157 INFO [main] 15
+2023-05-05 13:11:40,157 ERROR [main] sono io
+2023-05-05 13:11:40,165 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:11:40,165 WARN [main] Titolo: X Agosto
+2023-05-05 13:11:40,165 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:11:40,165 WARN [main] Titolo: L'infinito
+2023-05-05 13:11:40,166 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:11:40,166 WARN [main] Titolo: La divina commedia
+2023-05-05 13:11:40,166 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:11:40,166 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:11:40,166 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:11:40,166 WARN [main] Titolo: fratelli
+2023-05-05 13:11:40,166 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:11:40,166 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:11:40,167 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:11:40,167 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:11:40,171 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:11:40,633 INFO [main] Valore Ciao
+2023-05-05 13:11:40,634 INFO [main] Valore mi
+2023-05-05 13:11:40,634 INFO [main] Valore chiamo
+2023-05-05 13:11:40,634 INFO [main] Valore Mariangela
+2023-05-05 13:11:40,634 INFO [main] Valore Bruno
+2023-05-05 13:11:40,634 INFO [main] Valore !
+2023-05-05 13:12:09,096 TRACE [main] Hello from Log4j 2
+2023-05-05 13:12:09,099 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:12:09,099 INFO [main] Hello from Log4j 2
+2023-05-05 13:12:09,099 WARN [main] Hello from Log4j 2
+2023-05-05 13:12:09,099 ERROR [main] Hello from Log4j 2
+2023-05-05 13:12:09,099 FATAL [main] Hello from Log4j 2
+2023-05-05 13:12:09,100 INFO [main] 15
+2023-05-05 13:12:09,101 ERROR [main] sono io
+2023-05-05 13:12:09,109 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:12:09,109 WARN [main] Titolo: X Agosto
+2023-05-05 13:12:09,109 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:12:09,109 WARN [main] Titolo: L'infinito
+2023-05-05 13:12:09,109 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:12:09,109 WARN [main] Titolo: La divina commedia
+2023-05-05 13:12:09,110 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:12:09,110 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:12:09,110 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:12:09,110 WARN [main] Titolo: fratelli
+2023-05-05 13:12:09,110 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:12:09,110 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:12:09,110 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:12:09,111 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:12:09,114 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:12:09,552 INFO [main] Valore Ciao
+2023-05-05 13:12:09,552 INFO [main] Valore mi
+2023-05-05 13:12:09,552 INFO [main] Valore chiamo
+2023-05-05 13:12:09,552 INFO [main] Valore Mariangela
+2023-05-05 13:12:09,552 INFO [main] Valore Bruno
+2023-05-05 13:12:09,553 INFO [main] Valore !
+2023-05-05 13:13:16,224 TRACE [main] Hello from Log4j 2
+2023-05-05 13:13:16,226 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:13:16,226 INFO [main] Hello from Log4j 2
+2023-05-05 13:13:16,226 WARN [main] Hello from Log4j 2
+2023-05-05 13:13:16,227 ERROR [main] Hello from Log4j 2
+2023-05-05 13:13:16,227 FATAL [main] Hello from Log4j 2
+2023-05-05 13:13:16,228 INFO [main] 15
+2023-05-05 13:13:16,228 ERROR [main] sono io
+2023-05-05 13:13:16,235 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:13:16,236 WARN [main] Titolo: X Agosto
+2023-05-05 13:13:16,236 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:13:16,236 WARN [main] Titolo: L'infinito
+2023-05-05 13:13:16,236 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:13:16,236 WARN [main] Titolo: La divina commedia
+2023-05-05 13:13:16,236 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:13:16,236 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:13:16,236 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:13:16,236 WARN [main] Titolo: fratelli
+2023-05-05 13:13:16,237 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:13:16,237 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:13:16,237 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:13:16,238 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:13:16,242 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:13:16,700 INFO [main] Valore Ciao
+2023-05-05 13:13:16,700 INFO [main] Valore mi
+2023-05-05 13:13:16,700 INFO [main] Valore chiamo
+2023-05-05 13:13:16,701 INFO [main] Valore Mariangela
+2023-05-05 13:13:16,701 INFO [main] Valore Bruno
+2023-05-05 13:13:16,701 INFO [main] Valore !
+2023-05-05 13:14:22,050 TRACE [main] Hello from Log4j 2
+2023-05-05 13:14:22,052 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:14:22,052 INFO [main] Hello from Log4j 2
+2023-05-05 13:14:22,052 WARN [main] Hello from Log4j 2
+2023-05-05 13:14:22,052 ERROR [main] Hello from Log4j 2
+2023-05-05 13:14:22,053 FATAL [main] Hello from Log4j 2
+2023-05-05 13:14:22,053 INFO [main] 15
+2023-05-05 13:14:22,054 ERROR [main] sono io
+2023-05-05 13:14:22,061 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:14:22,061 WARN [main] Titolo: X Agosto
+2023-05-05 13:14:22,061 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:14:22,061 WARN [main] Titolo: L'infinito
+2023-05-05 13:14:22,061 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:14:22,062 WARN [main] Titolo: La divina commedia
+2023-05-05 13:14:22,062 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:14:22,062 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:14:22,062 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:14:22,062 WARN [main] Titolo: fratelli
+2023-05-05 13:14:22,062 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:14:22,062 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:14:22,063 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:14:22,063 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:14:22,066 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:14:22,531 INFO [main] Valore Ciao
+2023-05-05 13:14:22,531 INFO [main] Valore mi
+2023-05-05 13:14:22,531 INFO [main] Valore chiamo
+2023-05-05 13:14:22,532 INFO [main] Valore Mariangela
+2023-05-05 13:14:22,532 INFO [main] Valore Bruno
+2023-05-05 13:14:22,532 INFO [main] Valore !
+2023-05-05 13:17:19,133 TRACE [main] Hello from Log4j 2
+2023-05-05 13:17:19,135 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:17:19,135 INFO [main] Hello from Log4j 2
+2023-05-05 13:17:19,135 WARN [main] Hello from Log4j 2
+2023-05-05 13:17:19,135 ERROR [main] Hello from Log4j 2
+2023-05-05 13:17:19,136 FATAL [main] Hello from Log4j 2
+2023-05-05 13:17:19,136 INFO [main] 15
+2023-05-05 13:17:19,137 ERROR [main] sono io
+2023-05-05 13:17:19,144 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:17:19,144 WARN [main] Titolo: X Agosto
+2023-05-05 13:17:19,144 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:17:19,144 WARN [main] Titolo: L'infinito
+2023-05-05 13:17:19,144 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:17:19,145 WARN [main] Titolo: La divina commedia
+2023-05-05 13:17:19,145 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:17:19,145 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:17:19,145 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:17:19,145 WARN [main] Titolo: fratelli
+2023-05-05 13:17:19,145 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:17:19,145 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:17:19,145 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:17:19,146 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:17:19,149 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:17:19,582 INFO [main] Valore Ciao
+2023-05-05 13:17:19,583 INFO [main] Valore mi
+2023-05-05 13:17:19,583 INFO [main] Valore chiamo
+2023-05-05 13:17:19,583 INFO [main] Valore Mariangela
+2023-05-05 13:17:19,583 INFO [main] Valore Bruno
+2023-05-05 13:17:19,583 INFO [main] Valore !
+2023-05-05 13:18:44,928 TRACE [main] Hello from Log4j 2
+2023-05-05 13:18:44,931 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:18:44,931 INFO [main] Hello from Log4j 2
+2023-05-05 13:18:44,931 WARN [main] Hello from Log4j 2
+2023-05-05 13:18:44,931 ERROR [main] Hello from Log4j 2
+2023-05-05 13:18:44,931 FATAL [main] Hello from Log4j 2
+2023-05-05 13:18:44,932 INFO [main] 15
+2023-05-05 13:18:44,933 ERROR [main] sono io
+2023-05-05 13:18:44,939 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:18:44,940 WARN [main] Titolo: X Agosto
+2023-05-05 13:18:44,940 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:18:44,940 WARN [main] Titolo: L'infinito
+2023-05-05 13:18:44,940 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:18:44,940 WARN [main] Titolo: La divina commedia
+2023-05-05 13:18:44,940 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:18:44,940 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:18:44,940 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:18:44,940 WARN [main] Titolo: fratelli
+2023-05-05 13:18:44,940 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:18:44,940 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:18:44,941 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:18:44,942 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:18:44,944 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:18:45,380 INFO [main] Valore Ciao
+2023-05-05 13:18:45,381 INFO [main] Valore mi
+2023-05-05 13:18:45,381 INFO [main] Valore chiamo
+2023-05-05 13:18:45,381 INFO [main] Valore Mariangela
+2023-05-05 13:18:45,381 INFO [main] Valore Bruno
+2023-05-05 13:18:45,381 INFO [main] Valore !
+2023-05-05 13:18:45,700 INFO [main] JSON {"eta":"21","nome":"Saverio","citta":"Bari"}{"eta":"21","nome":"Saverio","citta":"Bari"}{}
+2023-05-05 13:18:45,701 INFO [main] JSON [true,"Ciao a tutti",{"eta":"67","Nome":"Luca","citta":"Roma"},{"eta":"21","nome":"Saverio","citta":"Bari"}]
+2023-05-05 13:24:39,627 TRACE [main] Hello from Log4j 2
+2023-05-05 13:24:39,630 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:24:39,630 INFO [main] Hello from Log4j 2
+2023-05-05 13:24:39,630 WARN [main] Hello from Log4j 2
+2023-05-05 13:24:39,630 ERROR [main] Hello from Log4j 2
+2023-05-05 13:24:39,630 FATAL [main] Hello from Log4j 2
+2023-05-05 13:24:39,631 INFO [main] 15
+2023-05-05 13:24:39,631 ERROR [main] sono io
+2023-05-05 13:24:39,639 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:24:39,639 WARN [main] Titolo: X Agosto
+2023-05-05 13:24:39,639 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:24:39,639 WARN [main] Titolo: L'infinito
+2023-05-05 13:24:39,639 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:24:39,639 WARN [main] Titolo: La divina commedia
+2023-05-05 13:24:39,639 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:24:39,640 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:24:39,640 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:24:39,640 WARN [main] Titolo: fratelli
+2023-05-05 13:24:39,640 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:24:39,640 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:24:39,640 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:24:39,641 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:24:39,644 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:24:40,083 INFO [main] Valore Ciao
+2023-05-05 13:24:40,084 INFO [main] Valore mi
+2023-05-05 13:24:40,084 INFO [main] Valore chiamo
+2023-05-05 13:24:40,084 INFO [main] Valore Mariangela
+2023-05-05 13:24:40,084 INFO [main] Valore Bruno
+2023-05-05 13:24:40,084 INFO [main] Valore !
+2023-05-05 13:24:40,402 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}{"eta":"25","nome":"Marco","citta":"Genova"}{"eta":"21","nome":"Saverio","citta":"Bari"}
+2023-05-05 13:24:40,402 INFO [main] JSON [true,"Ciao a tutti",{"eta":"22","nome":"Giovanni","citta":"Lecce"},{"eta":"21","nome":"Saverio","citta":"Bari"},{"eta":"25","nome":"Marco","citta":"Genova"}]
+2023-05-05 13:34:35,291 TRACE [main] Hello from Log4j 2
+2023-05-05 13:34:35,293 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:34:35,293 INFO [main] Hello from Log4j 2
+2023-05-05 13:34:35,293 WARN [main] Hello from Log4j 2
+2023-05-05 13:34:35,293 ERROR [main] Hello from Log4j 2
+2023-05-05 13:34:35,293 FATAL [main] Hello from Log4j 2
+2023-05-05 13:34:35,294 INFO [main] 15
+2023-05-05 13:34:35,294 ERROR [main] sono io
+2023-05-05 13:34:35,302 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:34:35,303 WARN [main] Titolo: X Agosto
+2023-05-05 13:34:35,303 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:34:35,303 WARN [main] Titolo: L'infinito
+2023-05-05 13:34:35,303 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:34:35,303 WARN [main] Titolo: La divina commedia
+2023-05-05 13:34:35,303 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:34:35,303 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:34:35,303 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:34:35,303 WARN [main] Titolo: fratelli
+2023-05-05 13:34:35,303 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:34:35,304 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:34:35,304 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:34:35,305 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:34:35,307 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:34:35,763 INFO [main] Valore Ciao
+2023-05-05 13:34:35,763 INFO [main] Valore mi
+2023-05-05 13:34:35,763 INFO [main] Valore chiamo
+2023-05-05 13:34:35,763 INFO [main] Valore Mariangela
+2023-05-05 13:34:35,763 INFO [main] Valore Bruno
+2023-05-05 13:34:35,764 INFO [main] Valore !
+2023-05-05 13:34:35,926 ERROR [main] Errore nella creazione del mio PDF
+java.io.FileNotFoundException: C:\Users\utente\IdeaProjects\Esercitazione-Java-1-me\esercitrazionejava\target\classes\mioPdf.pdf (Impossibile accedere al file. Il file è utilizzato da un altro processo)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:295) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:236) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:124) ~[?:?]
+	at it.devlec.pdf.EsempioPDF.creaMioPdf(EsempioPDF.java:35) ~[classes/:?]
+	at it.devlec.EsercitazioneJavaMain.main(EsercitazioneJavaMain.java:31) ~[classes/:?]
+2023-05-05 13:34:35,942 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}{"eta":"25","nome":"Marco","citta":"Genova"}{"eta":"21","nome":"Saverio","citta":"Bari"}
+2023-05-05 13:34:35,942 INFO [main] JSON [true,"Ciao a tutti",{"eta":"22","nome":"Giovanni","citta":"Lecce"},{"eta":"21","nome":"Saverio","citta":"Bari"},{"eta":"25","nome":"Marco","citta":"Genova"}]
+2023-05-05 13:34:47,589 TRACE [main] Hello from Log4j 2
+2023-05-05 13:34:47,591 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:34:47,592 INFO [main] Hello from Log4j 2
+2023-05-05 13:34:47,592 WARN [main] Hello from Log4j 2
+2023-05-05 13:34:47,592 ERROR [main] Hello from Log4j 2
+2023-05-05 13:34:47,592 FATAL [main] Hello from Log4j 2
+2023-05-05 13:34:47,593 INFO [main] 15
+2023-05-05 13:34:47,593 ERROR [main] sono io
+2023-05-05 13:34:47,601 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:34:47,601 WARN [main] Titolo: X Agosto
+2023-05-05 13:34:47,601 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:34:47,601 WARN [main] Titolo: L'infinito
+2023-05-05 13:34:47,601 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:34:47,601 WARN [main] Titolo: La divina commedia
+2023-05-05 13:34:47,601 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:34:47,601 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:34:47,601 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:34:47,601 WARN [main] Titolo: fratelli
+2023-05-05 13:34:47,602 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:34:47,602 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:34:47,602 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:34:47,603 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:34:47,606 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:34:48,063 INFO [main] Valore Ciao
+2023-05-05 13:34:48,063 INFO [main] Valore mi
+2023-05-05 13:34:48,063 INFO [main] Valore chiamo
+2023-05-05 13:34:48,063 INFO [main] Valore Mariangela
+2023-05-05 13:34:48,063 INFO [main] Valore Bruno
+2023-05-05 13:34:48,064 INFO [main] Valore !
+2023-05-05 13:34:48,376 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}{"eta":"25","nome":"Marco","citta":"Genova"}{"eta":"21","nome":"Saverio","citta":"Bari"}
+2023-05-05 13:34:48,377 INFO [main] JSON [true,"Ciao a tutti",{"eta":"22","nome":"Giovanni","citta":"Lecce"},{"eta":"21","nome":"Saverio","citta":"Bari"},{"eta":"25","nome":"Marco","citta":"Genova"}]
+2023-05-05 13:35:10,626 TRACE [main] Hello from Log4j 2
+2023-05-05 13:35:10,628 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:35:10,628 INFO [main] Hello from Log4j 2
+2023-05-05 13:35:10,629 WARN [main] Hello from Log4j 2
+2023-05-05 13:35:10,629 ERROR [main] Hello from Log4j 2
+2023-05-05 13:35:10,629 FATAL [main] Hello from Log4j 2
+2023-05-05 13:35:10,630 INFO [main] 15
+2023-05-05 13:35:10,630 ERROR [main] sono io
+2023-05-05 13:35:10,637 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:35:10,638 WARN [main] Titolo: X Agosto
+2023-05-05 13:35:10,638 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:35:10,638 WARN [main] Titolo: L'infinito
+2023-05-05 13:35:10,638 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:35:10,638 WARN [main] Titolo: La divina commedia
+2023-05-05 13:35:10,638 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:35:10,638 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:35:10,638 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:35:10,638 WARN [main] Titolo: fratelli
+2023-05-05 13:35:10,638 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:35:10,638 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:35:10,639 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:35:10,640 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:35:10,643 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:35:11,081 INFO [main] Valore Ciao
+2023-05-05 13:35:11,081 INFO [main] Valore mi
+2023-05-05 13:35:11,081 INFO [main] Valore chiamo
+2023-05-05 13:35:11,081 INFO [main] Valore Mariangela
+2023-05-05 13:35:11,081 INFO [main] Valore Bruno
+2023-05-05 13:35:11,082 INFO [main] Valore !
+2023-05-05 13:35:11,399 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}{"eta":"25","nome":"Marco","citta":"Genova"}{"eta":"21","nome":"Saverio","citta":"Bari"}
+2023-05-05 13:35:11,399 INFO [main] JSON [true,"Ciao a tutti",{"eta":"22","nome":"Giovanni","citta":"Lecce"},{"eta":"21","nome":"Saverio","citta":"Bari"},{"eta":"25","nome":"Marco","citta":"Genova"}]
+2023-05-05 13:35:41,272 TRACE [main] Hello from Log4j 2
+2023-05-05 13:35:41,274 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:35:41,274 INFO [main] Hello from Log4j 2
+2023-05-05 13:35:41,274 WARN [main] Hello from Log4j 2
+2023-05-05 13:35:41,274 ERROR [main] Hello from Log4j 2
+2023-05-05 13:35:41,274 FATAL [main] Hello from Log4j 2
+2023-05-05 13:35:41,275 INFO [main] 15
+2023-05-05 13:35:41,275 ERROR [main] sono io
+2023-05-05 13:35:41,283 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:35:41,284 WARN [main] Titolo: X Agosto
+2023-05-05 13:35:41,284 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:35:41,284 WARN [main] Titolo: L'infinito
+2023-05-05 13:35:41,284 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:35:41,284 WARN [main] Titolo: La divina commedia
+2023-05-05 13:35:41,284 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:35:41,284 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:35:41,284 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:35:41,285 WARN [main] Titolo: fratelli
+2023-05-05 13:35:41,285 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:35:41,285 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:35:41,285 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:35:41,286 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:35:41,289 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:35:41,736 INFO [main] Valore Ciao
+2023-05-05 13:35:41,737 INFO [main] Valore mi
+2023-05-05 13:35:41,737 INFO [main] Valore chiamo
+2023-05-05 13:35:41,737 INFO [main] Valore Mariangela
+2023-05-05 13:35:41,737 INFO [main] Valore Bruno
+2023-05-05 13:35:41,737 INFO [main] Valore !
+2023-05-05 13:35:41,898 ERROR [main] Errore nella creazione del mio PDF
+java.io.FileNotFoundException: C:\Users\utente\IdeaProjects\Esercitazione-Java-1-me\esercitrazionejava\target\classes\mioPdf.pdf (Impossibile accedere al file. Il file è utilizzato da un altro processo)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:295) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:236) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:124) ~[?:?]
+	at it.devlec.pdf.EsempioPDF.creaMioPdf(EsempioPDF.java:35) ~[classes/:?]
+	at it.devlec.EsercitazioneJavaMain.main(EsercitazioneJavaMain.java:31) ~[classes/:?]
+2023-05-05 13:35:41,917 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}{"eta":"25","nome":"Marco","citta":"Genova"}{"eta":"21","nome":"Saverio","citta":"Bari"}
+2023-05-05 13:35:41,918 INFO [main] JSON [true,"Ciao a tutti",{"eta":"22","nome":"Giovanni","citta":"Lecce"},{"eta":"21","nome":"Saverio","citta":"Bari"},{"eta":"25","nome":"Marco","citta":"Genova"}]
+2023-05-05 13:35:50,711 TRACE [main] Hello from Log4j 2
+2023-05-05 13:35:50,714 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:35:50,714 INFO [main] Hello from Log4j 2
+2023-05-05 13:35:50,714 WARN [main] Hello from Log4j 2
+2023-05-05 13:35:50,714 ERROR [main] Hello from Log4j 2
+2023-05-05 13:35:50,714 FATAL [main] Hello from Log4j 2
+2023-05-05 13:35:50,715 INFO [main] 15
+2023-05-05 13:35:50,715 ERROR [main] sono io
+2023-05-05 13:35:50,723 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:35:50,723 WARN [main] Titolo: X Agosto
+2023-05-05 13:35:50,723 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:35:50,723 WARN [main] Titolo: L'infinito
+2023-05-05 13:35:50,723 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:35:50,723 WARN [main] Titolo: La divina commedia
+2023-05-05 13:35:50,723 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:35:50,723 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:35:50,724 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:35:50,724 WARN [main] Titolo: fratelli
+2023-05-05 13:35:50,724 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:35:50,724 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:35:50,724 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:35:50,725 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:35:50,728 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:35:51,161 INFO [main] Valore Ciao
+2023-05-05 13:35:51,162 INFO [main] Valore mi
+2023-05-05 13:35:51,162 INFO [main] Valore chiamo
+2023-05-05 13:35:51,162 INFO [main] Valore Mariangela
+2023-05-05 13:35:51,162 INFO [main] Valore Bruno
+2023-05-05 13:35:51,162 INFO [main] Valore !
+2023-05-05 13:35:51,493 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}{"eta":"25","nome":"Marco","citta":"Genova"}{"eta":"21","nome":"Saverio","citta":"Bari"}
+2023-05-05 13:35:51,494 INFO [main] JSON [true,"Ciao a tutti",{"eta":"22","nome":"Giovanni","citta":"Lecce"},{"eta":"21","nome":"Saverio","citta":"Bari"},{"eta":"25","nome":"Marco","citta":"Genova"}]
+2023-05-05 13:48:49,760 TRACE [main] Hello from Log4j 2
+2023-05-05 13:48:49,763 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:48:49,763 INFO [main] Hello from Log4j 2
+2023-05-05 13:48:49,763 WARN [main] Hello from Log4j 2
+2023-05-05 13:48:49,763 ERROR [main] Hello from Log4j 2
+2023-05-05 13:48:49,763 FATAL [main] Hello from Log4j 2
+2023-05-05 13:48:49,764 INFO [main] 15
+2023-05-05 13:48:49,764 ERROR [main] sono io
+2023-05-05 13:48:49,773 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:48:49,773 WARN [main] Titolo: X Agosto
+2023-05-05 13:48:49,773 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:48:49,773 WARN [main] Titolo: L'infinito
+2023-05-05 13:48:49,773 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:48:49,773 WARN [main] Titolo: La divina commedia
+2023-05-05 13:48:49,773 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:48:49,774 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:48:49,774 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:48:49,774 WARN [main] Titolo: fratelli
+2023-05-05 13:48:49,774 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:48:49,774 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:48:49,774 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:48:49,775 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:48:49,778 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:48:50,223 INFO [main] Valore Ciao
+2023-05-05 13:48:50,223 INFO [main] Valore mi
+2023-05-05 13:48:50,223 INFO [main] Valore chiamo
+2023-05-05 13:48:50,224 INFO [main] Valore Mariangela
+2023-05-05 13:48:50,224 INFO [main] Valore Bruno
+2023-05-05 13:48:50,224 INFO [main] Valore !
+2023-05-05 13:48:50,537 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}{"eta":"25","nome":"Marco","citta":"Genova"}{"eta":"21","nome":"Saverio","citta":"Bari"}
+2023-05-05 13:48:50,537 INFO [main] JSON [true,"Ciao a tutti",{"eta":"22","nome":"Giovanni","citta":"Lecce"},{"eta":"21","nome":"Saverio","citta":"Bari"},{"eta":"25","nome":"Marco","citta":"Genova"}]
+2023-05-05 13:49:36,903 TRACE [main] Hello from Log4j 2
+2023-05-05 13:49:36,905 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:49:36,906 INFO [main] Hello from Log4j 2
+2023-05-05 13:49:36,906 WARN [main] Hello from Log4j 2
+2023-05-05 13:49:36,906 ERROR [main] Hello from Log4j 2
+2023-05-05 13:49:36,906 FATAL [main] Hello from Log4j 2
+2023-05-05 13:49:36,907 INFO [main] 15
+2023-05-05 13:49:36,907 ERROR [main] sono io
+2023-05-05 13:49:36,915 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:49:36,915 WARN [main] Titolo: X Agosto
+2023-05-05 13:49:36,915 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:49:36,915 WARN [main] Titolo: L'infinito
+2023-05-05 13:49:36,915 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:49:36,915 WARN [main] Titolo: La divina commedia
+2023-05-05 13:49:36,916 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:49:36,916 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:49:36,916 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:49:36,916 WARN [main] Titolo: fratelli
+2023-05-05 13:49:36,916 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:49:36,916 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:49:36,916 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:49:36,917 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:49:36,920 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:49:37,360 INFO [main] Valore Ciao
+2023-05-05 13:49:37,360 INFO [main] Valore mi
+2023-05-05 13:49:37,360 INFO [main] Valore chiamo
+2023-05-05 13:49:37,360 INFO [main] Valore Mariangela
+2023-05-05 13:49:37,360 INFO [main] Valore Bruno
+2023-05-05 13:49:37,360 INFO [main] Valore !
+2023-05-05 13:49:37,678 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}{"eta":"25","nome":"Marco","citta":"Genova"}{"eta":"21","nome":"Saverio","citta":"Bari"}
+2023-05-05 13:49:37,678 INFO [main] JSON [true,"Ciao a tutti",{"eta":"22","nome":"Giovanni","citta":"Lecce"},{"eta":"21","nome":"Saverio","citta":"Bari"},{"eta":"25","nome":"Marco","citta":"Genova"}]
+2023-05-05 13:50:26,703 TRACE [main] Hello from Log4j 2
+2023-05-05 13:50:26,706 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:50:26,706 INFO [main] Hello from Log4j 2
+2023-05-05 13:50:26,706 WARN [main] Hello from Log4j 2
+2023-05-05 13:50:26,706 ERROR [main] Hello from Log4j 2
+2023-05-05 13:50:26,706 FATAL [main] Hello from Log4j 2
+2023-05-05 13:50:26,707 INFO [main] 15
+2023-05-05 13:50:26,707 ERROR [main] sono io
+2023-05-05 13:50:26,715 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:50:26,715 WARN [main] Titolo: X Agosto
+2023-05-05 13:50:26,715 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:50:26,715 WARN [main] Titolo: L'infinito
+2023-05-05 13:50:26,716 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:50:26,716 WARN [main] Titolo: La divina commedia
+2023-05-05 13:50:26,716 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:50:26,716 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:50:26,716 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:50:26,716 WARN [main] Titolo: fratelli
+2023-05-05 13:50:26,716 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:50:26,716 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:50:26,717 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:50:26,717 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:50:26,720 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:50:27,180 INFO [main] Valore Ciao
+2023-05-05 13:50:27,181 INFO [main] Valore mi
+2023-05-05 13:50:27,181 INFO [main] Valore chiamo
+2023-05-05 13:50:27,181 INFO [main] Valore Mariangela
+2023-05-05 13:50:27,181 INFO [main] Valore Bruno
+2023-05-05 13:50:27,181 INFO [main] Valore !
+2023-05-05 13:50:27,522 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}{"eta":"25","nome":"Marco","citta":"Genova"}{"eta":"21","nome":"Saverio","citta":"Bari"}
+2023-05-05 13:50:27,522 INFO [main] JSON [true,"Ciao a tutti",{"eta":"22","nome":"Giovanni","citta":"Lecce"},{"eta":"21","nome":"Saverio","citta":"Bari"},{"eta":"25","nome":"Marco","citta":"Genova"}]
+2023-05-05 13:51:07,203 TRACE [main] Hello from Log4j 2
+2023-05-05 13:51:07,206 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:51:07,206 INFO [main] Hello from Log4j 2
+2023-05-05 13:51:07,206 WARN [main] Hello from Log4j 2
+2023-05-05 13:51:07,206 ERROR [main] Hello from Log4j 2
+2023-05-05 13:51:07,206 FATAL [main] Hello from Log4j 2
+2023-05-05 13:51:07,207 INFO [main] 15
+2023-05-05 13:51:07,207 ERROR [main] sono io
+2023-05-05 13:51:07,215 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:51:07,215 WARN [main] Titolo: X Agosto
+2023-05-05 13:51:07,215 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:51:07,215 WARN [main] Titolo: L'infinito
+2023-05-05 13:51:07,215 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:51:07,216 WARN [main] Titolo: La divina commedia
+2023-05-05 13:51:07,216 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:51:07,216 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:51:07,216 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:51:07,216 WARN [main] Titolo: fratelli
+2023-05-05 13:51:07,216 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:51:07,216 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:51:07,217 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:51:07,217 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:51:07,220 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:51:07,666 INFO [main] Valore Ciao
+2023-05-05 13:51:07,667 INFO [main] Valore mi
+2023-05-05 13:51:07,667 INFO [main] Valore chiamo
+2023-05-05 13:51:07,667 INFO [main] Valore Mariangela
+2023-05-05 13:51:07,667 INFO [main] Valore Bruno
+2023-05-05 13:51:07,667 INFO [main] Valore !
+2023-05-05 13:51:07,824 ERROR [main] Errore nella creazione del mio PDF
+java.io.FileNotFoundException: C:\Users\utente\IdeaProjects\Esercitazione-Java-1-me\esercitrazionejava\target\classes\mioPdf.pdf (Impossibile accedere al file. Il file è utilizzato da un altro processo)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.io.FileOutputStream.open(FileOutputStream.java:295) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:236) ~[?:?]
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:124) ~[?:?]
+	at it.devlec.pdf.EsempioPDF.creaMioPdf(EsempioPDF.java:35) ~[classes/:?]
+	at it.devlec.EsercitazioneJavaMain.main(EsercitazioneJavaMain.java:31) ~[classes/:?]
+2023-05-05 13:51:07,837 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}{"eta":"25","nome":"Marco","citta":"Genova"}{"eta":"21","nome":"Saverio","citta":"Bari"}
+2023-05-05 13:51:07,838 INFO [main] JSON [true,"Ciao a tutti",{"eta":"22","nome":"Giovanni","citta":"Lecce"},{"eta":"21","nome":"Saverio","citta":"Bari"},{"eta":"25","nome":"Marco","citta":"Genova"}]
+2023-05-05 13:51:32,666 TRACE [main] Hello from Log4j 2
+2023-05-05 13:51:32,668 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:51:32,668 INFO [main] Hello from Log4j 2
+2023-05-05 13:51:32,668 WARN [main] Hello from Log4j 2
+2023-05-05 13:51:32,669 ERROR [main] Hello from Log4j 2
+2023-05-05 13:51:32,669 FATAL [main] Hello from Log4j 2
+2023-05-05 13:51:32,670 INFO [main] 15
+2023-05-05 13:51:32,670 ERROR [main] sono io
+2023-05-05 13:51:32,677 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:51:32,677 WARN [main] Titolo: X Agosto
+2023-05-05 13:51:32,678 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:51:32,678 WARN [main] Titolo: L'infinito
+2023-05-05 13:51:32,678 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:51:32,678 WARN [main] Titolo: La divina commedia
+2023-05-05 13:51:32,678 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:51:32,678 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:51:32,678 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:51:32,678 WARN [main] Titolo: fratelli
+2023-05-05 13:51:32,678 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:51:32,678 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:51:32,679 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:51:32,679 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:51:32,682 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:51:33,120 INFO [main] Valore Ciao
+2023-05-05 13:51:33,120 INFO [main] Valore mi
+2023-05-05 13:51:33,120 INFO [main] Valore chiamo
+2023-05-05 13:51:33,121 INFO [main] Valore Mariangela
+2023-05-05 13:51:33,121 INFO [main] Valore Bruno
+2023-05-05 13:51:33,121 INFO [main] Valore !
+2023-05-05 13:51:33,444 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}{"eta":"25","nome":"Marco","citta":"Genova"}{"eta":"21","nome":"Saverio","citta":"Bari"}
+2023-05-05 13:51:33,444 INFO [main] JSON [true,"Ciao a tutti",{"eta":"22","nome":"Giovanni","citta":"Lecce"},{"eta":"21","nome":"Saverio","citta":"Bari"},{"eta":"25","nome":"Marco","citta":"Genova"}]
+2023-05-05 13:52:35,335 TRACE [main] Hello from Log4j 2
+2023-05-05 13:52:35,337 DEBUG [main] Hello from Log4j 2
+2023-05-05 13:52:35,338 INFO [main] Hello from Log4j 2
+2023-05-05 13:52:35,338 WARN [main] Hello from Log4j 2
+2023-05-05 13:52:35,338 ERROR [main] Hello from Log4j 2
+2023-05-05 13:52:35,338 FATAL [main] Hello from Log4j 2
+2023-05-05 13:52:35,339 INFO [main] 15
+2023-05-05 13:52:35,339 ERROR [main] sono io
+2023-05-05 13:52:35,348 INFO [main] Autore: Giovanni Pascoli
+2023-05-05 13:52:35,348 WARN [main] Titolo: X Agosto
+2023-05-05 13:52:35,349 INFO [main] Autore: Giacomo Leopardi
+2023-05-05 13:52:35,349 WARN [main] Titolo: L'infinito
+2023-05-05 13:52:35,349 INFO [main] Autore: Dante Aligheri
+2023-05-05 13:52:35,349 WARN [main] Titolo: La divina commedia
+2023-05-05 13:52:35,349 INFO [main] Autore: Eugenio Montale
+2023-05-05 13:52:35,349 WARN [main] Titolo: Ossi di seppia
+2023-05-05 13:52:35,349 INFO [main] Autore: Giuseppe Ungaretti
+2023-05-05 13:52:35,349 WARN [main] Titolo: fratelli
+2023-05-05 13:52:35,349 INFO [main] Autore: Giovanni Verga
+2023-05-05 13:52:35,349 WARN [main] Titolo: Rossomalpelo
+2023-05-05 13:52:35,350 DEBUG [main] Elimino il vecchio CSV
+2023-05-05 13:52:35,350 DEBUG [main] File CSV creato correttamente
+2023-05-05 13:52:35,352 DEBUG [main] Provo a leggere un file excel
+2023-05-05 13:52:35,802 INFO [main] Valore Ciao
+2023-05-05 13:52:35,802 INFO [main] Valore mi
+2023-05-05 13:52:35,802 INFO [main] Valore chiamo
+2023-05-05 13:52:35,803 INFO [main] Valore Mariangela
+2023-05-05 13:52:35,803 INFO [main] Valore Bruno
+2023-05-05 13:52:35,803 INFO [main] Valore !
+2023-05-05 13:52:36,123 INFO [main] JSON {"eta":"22","nome":"Giovanni","citta":"Lecce"}{"eta":"25","nome":"Marco","citta":"Genova"}{"eta":"21","nome":"Saverio","citta":"Bari"}
+2023-05-05 13:52:36,124 INFO [main] JSON [true,"Ciao a tutti",{"eta":"22","nome":"Giovanni","citta":"Lecce"},{"eta":"21","nome":"Saverio","citta":"Bari"},{"eta":"25","nome":"Marco","citta":"Genova"}]

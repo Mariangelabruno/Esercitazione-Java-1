@@ -20,6 +20,10 @@ public class EsempioCSV {
             put("Dante Aligheri", "La divina commedia");
             put("Giacomo Leopardi", "L'infinito");
             put("Eugenio Montale", "Ossi di seppia");
+            put("Luigi Pirandello", "uno nessuno centomila");
+            put("Giuseppe Ungaretti", "fratelli");
+            put("Giovanni Verga", "Rossomalpelo");
+            put("Giovanni Pascoli", "X Agosto");
         }
     };
     public EsempioCSV() {

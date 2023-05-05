@@ -38,7 +38,7 @@ public class EsempioPDF {
             PdfWriter.getInstance(document,fileOutputStream);
             document.open();
             Font font = FontFactory.getFont(FontFactory.COURIER, 16, BaseColor.BLACK);
-            Chunk chunk = new Chunk("Ciao Mondo", font);
+            Chunk chunk = new Chunk("Dati anagrafici", font);
 
             document.add(chunk);
 
@@ -49,9 +49,9 @@ public class EsempioPDF {
 
             document.add(table);
 
-            Path path = Paths.get(ClassLoader.getSystemResource("exprivia.jpg").toURI());
+            Path path = Paths.get(ClassLoader.getSystemResource("ruvo.jpg").toURI());
             Image img = Image.getInstance(path.toAbsolutePath().toString());
-            img.scalePercent(8);
+            img.scalePercent(100);
 
             document.add(img);
             document.close();
@@ -62,7 +62,7 @@ public class EsempioPDF {
 
     }
     private void addTableHeader(PdfPTable table) {
-        Stream.of("colonna  1", "colonna  2", "colonna  3")
+        Stream.of("Nome", "Età", "Città")
                 .forEach(columnTitle -> {
                     PdfPCell header = new PdfPCell();
                     header.setBackgroundColor(BaseColor.LIGHT_GRAY);
@@ -73,22 +73,22 @@ public class EsempioPDF {
     }
 
     private void addRows(PdfPTable table) {
-        table.addCell("riga 1, colonna 1");
-        table.addCell("riga 1, colonna 2");
-        table.addCell("riga 1, colonna 3");
+        table.addCell("Giovanni");
+        table.addCell("22");
+        table.addCell("Lecce");
     }
     private void addCustomRows(PdfPTable table)
             throws URISyntaxException, BadElementException, IOException {
 
-        PdfPCell topAlignCell = new PdfPCell(new Phrase("riga 2, colonna 1"));
+        PdfPCell topAlignCell = new PdfPCell(new Phrase("Marco"));
         topAlignCell.setHorizontalAlignment(Element.ALIGN_TOP);
         table.addCell(topAlignCell);
 
-        PdfPCell horizontalAlignCell = new PdfPCell(new Phrase("riga 2, colonna 2"));
-        horizontalAlignCell.setHorizontalAlignment(Element.ALIGN_CENTER);
+        PdfPCell horizontalAlignCell = new PdfPCell(new Phrase("25"));
+        horizontalAlignCell.setHorizontalAlignment(Element.ALIGN_TOP);
         table.addCell(horizontalAlignCell);
 
-        PdfPCell verticalAlignCell = new PdfPCell(new Phrase("riga 2, colonna 3"));
+        PdfPCell verticalAlignCell = new PdfPCell(new Phrase("Genova"));
         verticalAlignCell.setVerticalAlignment(Element.ALIGN_BOTTOM);
         table.addCell(verticalAlignCell);
     }

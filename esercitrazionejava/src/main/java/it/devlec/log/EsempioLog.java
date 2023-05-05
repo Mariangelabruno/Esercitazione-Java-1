@@ -10,6 +10,9 @@ public class EsempioLog {
 
     }
     public void stampaAltriLog(){
-        logger.info("Ciao da stampa altri log...");
+        int a = 5;
+        int b = a+10;
+        logger.info(b);
+        logger.error("sono io");
     }
 }

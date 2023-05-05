@@ -79,13 +79,23 @@ public class EsempioExcel {
 
         Row row = sheet.createRow(2);
         Cell cell = row.createCell(0);
-        cell.setCellValue("Mario Rossi");
+        cell.setCellValue("Mariangela Bruno");
         cell.setCellStyle(style);
 
         cell = row.createCell(1);
         cell.setCellValue(20);
         cell.setCellStyle(style);
         File currDir = new File(".");
+
+         row = sheet.createRow(3);
+         cell = row.createCell(0);
+        cell.setCellValue("Luigi Lisi");
+        cell.setCellStyle(style);
+
+        cell = row.createCell(1);
+        cell.setCellValue(22);
+        cell.setCellStyle(style);
+
 
 
         FileOutputStream outputStream = null;
