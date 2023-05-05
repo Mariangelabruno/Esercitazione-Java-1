@@ -13,6 +13,8 @@ public class EsercitazioneJavaMain {
     public static void main(String[] args){
         logger.trace("Hello from Log4j 2");
         logger.debug("Hello from Log4j 2");
+
+
         logger.info("Hello from Log4j 2");
         logger.warn("Hello from Log4j 2");
         logger.error("Hello from Log4j 2");
